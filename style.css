@@ -491,9 +491,3 @@ slide p{
       top: -45px;
      z-index: 7;
   }
-
-.photo{
-  position: absolute;
-  left: 200px;
-  top: 200px;
-}
