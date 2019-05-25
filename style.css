@@ -492,4 +492,10 @@ slide p{
      z-index: 7;
   }
 
-  
+  .photo{
+    border-radius: 50%;
+  }
+
+  .photo:hover{
+    border-radius: 10px;
+  }
