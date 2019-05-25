@@ -493,5 +493,7 @@ slide p{
   }
 
 .photo{
-  border-radius: 50%;
+  position: absolute;
+  left: 200px;
+  top: 200px;
 }
