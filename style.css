@@ -493,9 +493,5 @@ slide p{
   }
 
   .photo{
-    border-radius: 50%;
-  }
-
-  .photo:hover{
-    border-radius: 10px;
+    border-radius: 20px;
   }
