@@ -451,5 +451,5 @@ ul li a{
   margin: 15px;
   height: 1px;
   background: black;
-  
+  z-index: 5;
 }
