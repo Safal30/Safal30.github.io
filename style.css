@@ -433,3 +433,16 @@ ul li a{
     background: black;
     background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%, black));
 }
+
+/* Bw Pic*/
+.bwpic{
+  -webkit-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+     -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+        transition: all 1s ease;
+}
+
+.bwpic:hover {
+  -webkit-filter: grayscale(100%);
+}
