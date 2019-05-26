@@ -446,3 +446,10 @@ ul li a{
 .bwpic:hover {
   -webkit-filter: grayscale(40%);
 }
+
+.smallline{
+  margin: 15px;
+  height: 1px;
+  background: black;
+  
+}
