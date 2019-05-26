@@ -427,6 +427,13 @@ ul li a{
 
 }
 
+.t{
+  position: absolute;
+  left: 50px;
+  top: 70px;
+
+}
+
 .fadingline {
     margin: 25px 0;
     height: 1px;
