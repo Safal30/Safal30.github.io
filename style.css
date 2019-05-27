@@ -434,6 +434,12 @@ ul li a{
 
 }
 
+.bg{
+  position: absolute;
+  left: 50px;
+  top: 240px;
+}
+
 .fadingline {
     margin: 25px 0;
     height: 1px;
