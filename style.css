@@ -422,14 +422,14 @@ ul li a{
 
 .roses{
   position: absolute;
-  left: 20px;
+  left: 40px;
   top: 70px;
 
 }
 
 .t{
   position: absolute;
-  left: 610px;
+  left: 620px;
   top: 70px;
 
 }
@@ -451,7 +451,7 @@ ul li a{
 }
 
 .bwpic:hover {
-  -webkit-filter: grayscale(40%);
+  -webkit-filter: grayscale(60%);
 }
 
 /*mail logo*/
