@@ -440,6 +440,12 @@ ul li a{
   top: 440px;
 }
 
+.soul{
+  position: absolute;
+  left: 620px;
+  top: 440px;
+}
+
 .fadingline {
     margin: 25px 0;
     height: 1px;
