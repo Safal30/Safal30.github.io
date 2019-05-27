@@ -453,3 +453,10 @@ ul li a{
 .bwpic:hover {
   -webkit-filter: grayscale(40%);
 }
+
+/*mail logo*/
+.maillogo{
+  position: absolute;
+  left: 670px;
+  top: 146px;
+}
